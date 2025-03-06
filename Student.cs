@@ -50,10 +50,6 @@ namespace BaiTapTuan3_Bai1
             Console.WriteLine("MA SINH VIEN : " + masv);
             Console.WriteLine("DIEM TRUNG BINH : " + dtb);
             Console.WriteLine("EMAIL : " + email);
-            Console.WriteLine("EMAIL : " + email);
-            Console.WriteLine("EMAIL : " + email);
-            Console.WriteLine("EMAIL : " + email);
-            Console.WriteLine("EMAIL : " + email);
             
         }
         public double GetDTB()
